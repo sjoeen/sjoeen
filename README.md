@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently doing my Master of science in AI. <br>I'll publish the projects I'm actually proud of lmao. <br>Coding in: python, c and r-studio
+currently doing my Master of science in AI. <br> <br>Coding in: python, c and r-studio
 
 
 # 💻 Tech Stack:

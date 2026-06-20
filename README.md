@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my page, this is some of my projects I have implemented in my free time :))
+Always ready and eager to learn something new:)
 
 
 # 💻 Tech Stack:

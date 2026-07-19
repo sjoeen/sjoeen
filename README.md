@@ -1,6 +1,8 @@
 # 💫 About Me:
 Always ready and eager to learn something new:)
 
+https://sjoeen.github.io/Resume/
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=black) ![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-%23000000.svg?style=flat&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23000000.svg?style=flat&logoColor=white)
